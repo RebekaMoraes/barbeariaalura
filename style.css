@@ -1,8 +1,9 @@
 
  body{
-    background : #0084ff;
+    background-color : #0084ff;
+    text-align:center;
+
  } 
  h1{
    color:aqua;
-   text-align:center;
  } 
